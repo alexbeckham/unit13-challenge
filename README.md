@@ -18,3 +18,8 @@ medium: "40% bonds (AGG), 60% equities (SPY)"
 high: "20% bonds (AGG), 80% equities (SPY)"
 
 very high: "0% bonds (AGG), 100% equities (SPY)"
+
+# GIF of Bot (Currently not Working)
+![Alt Text](https://github.com/alexbeckham/unit13-challenge/blob/main/RoboAdvisor/Chatbot_not_working.gif)
+
+
